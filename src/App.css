@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+#TJPic {
+  width: 100%;
+}
+
+#mediaDiv {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 70px;
+}
+
+
+#todayShare {
+  background-color: rgba(255, 255, 255, 0.5);
+  /* box-shadow: 1px 1px 5px 10px rgba(255, 255, 255, 0.5); */
+  width: 250px;
+  margin-top: 6%;
+}
+
+.paral {
+  min-height: 700px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.paral h1 {
+  text-align: center;
+}
+
+.paralsec {
+  background-image: url('/img/background0729.jpg');
+}
+
+
